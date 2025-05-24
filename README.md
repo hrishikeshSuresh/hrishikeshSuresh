@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hrishikeshSuresh
-- 👀 I’m interested in Machine Learning and Networks
+- 👀 I’m interested in Systems, Networks and Artificial Intelligence
 - 🌱 I’m currently investigating a few ideas for my next project
-- 💞️ I’m looking to collaborate on ML research and projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me at hrishikesh123s@gmail.com
 
 <!---
